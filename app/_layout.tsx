@@ -4,7 +4,6 @@ import { useEffect } from 'react';
 import 'react-native-reanimated';
 
 import { Text, View } from 'react-native';
-import { StyleSheet } from 'react-native-unistyles'
 
 // Prevent the splash screen from auto-hiding before asset loading is complete.
 SplashScreen.preventAutoHideAsync();
