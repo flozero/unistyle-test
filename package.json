@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "babel-plugin-react-compiler": "^19.0.0-beta-3229e95-20250315",
     "react": "19.0.0",
-    "react-native": "0.78.1"
+    "react-native": "0.78.1",
+    "react-native-edge-to-edge": "^1.4.3",
+    "react-native-nitro-modules": "^0.25.2",
+    "react-native-unistyles": "^3.0.0-beta.8"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
